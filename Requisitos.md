@@ -85,9 +85,6 @@
   </tbody>
 </table>
 
-<style>
-.small-note { font-size: 0.9em; color: #666; margin-top: 10px; }
-</style>
 <div class="small-note">
 <strong>Legenda:</strong> <span style="background-color: #d4edda;">RF (Funcional)</span> | 
 <span style="background-color: #d1ecf1;">RNF (Não-Funcional)</span> | 
